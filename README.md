@@ -1,4 +1,4 @@
-# Lab: Teaching Pac-Man to Search
+# Udacity Project: Teaching Pac-Man to Search
 
 ![][pac-man-logo-jpg]
 
